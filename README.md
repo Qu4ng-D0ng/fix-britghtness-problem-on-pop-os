@@ -1,0 +1,1 @@
+# fix-britghtness-problem-on-pop-os
